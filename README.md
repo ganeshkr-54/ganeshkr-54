@@ -58,14 +58,16 @@
   <img src="https://skillicons.dev/icons?i=grafana" height="40" alt="grafana logo"  />
 </div>
 
-###
 
-<h3 align="left">🔥   My Stats :</h3>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ganeshkr-54&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ganeshkr-54&theme=dark&hide_border=false)<br/>
 
-###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=ganeshkumarreddy54&theme=dark" alt="Layout with last medium posts"  />
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ganeshkr-54&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-###
+---
+[![](https://visitcount.itsvg.in/api?id=ganeshkr-54&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
