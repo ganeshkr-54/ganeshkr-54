@@ -12,7 +12,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="49" height="37" alt="twitter logo"  />
   </a>
   <a target="_blank" href="https://medium.com/@ganeshkumarreddy54" style="display: inline-block; margin: 15px;">
-  <img src="https://img.shields.io/badge/Me-logo?style=icon&logoColor=orange&color=blue" width="49" height="37" alt="medium logo"/>
+  <img src="https://img.shields.io/badge/Medium-logo?style=icon&logoColor=orange&color=blue" alt="medium logo"/>
 </a>
   
 </div>
