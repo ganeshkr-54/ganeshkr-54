@@ -46,6 +46,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
   <img width="12" />
+  <img src="https://icon.icepanel.io/Technology/svg/Helm.svg" height="40" alt="helm logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="40" alt="terraform logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ansible" height="40" alt="ansible logo"  />
